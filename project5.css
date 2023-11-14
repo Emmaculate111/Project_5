@@ -440,7 +440,7 @@ nav ul li:hover{
         flex-direction: column;
     }
     .like{
-        min-width: 70vw;
+        width: 70vw;
     }
     .pp, .mm, .ll, .write{
         font-size: 2vw;
